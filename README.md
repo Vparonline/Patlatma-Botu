@@ -5,4 +5,4 @@ Hesabın tokenini girdikten sonra .elchavopy kanal yazıp kanalları silebilirsi
 
 https://user-images.githubusercontent.com/74346832/174075143-4da27849-13ca-4c74-97d7-ef6a2fd8dc0b.mp4
 
-Tabiki hiç bir botcuyla sorunumuz yoktur (1 tanesi hariç o kendisini çok iyi biliyor.) yukarıdakide ufacıkcıkıkıck kanıt olsun.
+# Tabiki hiç bir botcuyla sorunumuz yoktur (1 tanesi hariç o kendisini çok iyi biliyor.) yukarıdakide ufacıkcıkıkıck kanıt olsun.
